@@ -8,5 +8,9 @@ To run the prediction web app locally:
 
 ```bash
 python app.py
+```
 
+Localhost
+```bash
 http://127.0.0.1:5000/predictdata   
+```
